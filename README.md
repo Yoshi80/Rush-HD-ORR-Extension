@@ -13,8 +13,8 @@ The only cards covered by this extension are cards who are officially released i
 
 **/!\ Disclaimer :** This repository is meant to be an extension to the existing [HD pictures](https://github.com/Yoshi80/Rush-HD-Pictures) project. The install links provided here are only there in case people want them, but they should refer to the main repository for installation instructions.
 
--[Base Pack + ORR Extension](https://www.mediafire.com/file/ebzmqkv3vs9pc0y/user_configs.json/file)
--[ORR Extension only](https://www.mediafire.com/file/ba2nro78tpd6777/user_configs.json/file)
+- [Base Pack + ORR Extension](https://www.mediafire.com/file/ebzmqkv3vs9pc0y/user_configs.json/file)
+- [ORR Extension only](https://www.mediafire.com/file/ba2nro78tpd6777/user_configs.json/file)
 
 ### Credits
 
